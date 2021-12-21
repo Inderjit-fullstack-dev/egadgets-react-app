@@ -71,11 +71,3 @@ After the above command, the application will run on the [http://localhost:3000]
 | ----------- | ---------------------------------------------- | ----------- |
 | Development | [http://localhost:3000](http://localhost:3000) | ...         |
 | Production  | [EGadgets](https://egadgets.netlify.app/)      | ...         |
-
-## Contributors
-
-- Inderjit Singh [Github](https://github.com/Inderjit-fullstack-dev) | [LinkedIn](https://www.linkedin.com/in/inderjit-singh-997591175/)
-- Aruna KS [LinkedIn](https://www.linkedin.com/in/arunaks)
-
-## Mentor
-- Gaurav Tiwari [LinkedIn](https://www.linkedin.com/in/gaurav-tiwari-b925b526)
